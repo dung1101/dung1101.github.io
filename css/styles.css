@@ -10151,3 +10151,8 @@ section.resume-section .resume-section-content {
   font-size: 1.5rem;
   margin-right: 1.5rem;
 }
+.sub-project-header{
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-left: 0.5rem;
+}
